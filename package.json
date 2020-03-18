@@ -1,6 +1,6 @@
 {
   "name": "google-auth",
-  "homepage": "https://Hurricane0.github.io/Google-Authentification",
+  "homepage": "https://Hurricane0.github.io/Google-OAuth",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
