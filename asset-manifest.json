@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Google-Authentification/static/css/main.81d077c9.chunk.css",
-    "main.js": "/Google-Authentification/static/js/main.8f7fe07b.chunk.js",
-    "main.js.map": "/Google-Authentification/static/js/main.8f7fe07b.chunk.js.map",
-    "runtime-main.js": "/Google-Authentification/static/js/runtime-main.95802a91.js",
-    "runtime-main.js.map": "/Google-Authentification/static/js/runtime-main.95802a91.js.map",
-    "static/js/2.cc866157.chunk.js": "/Google-Authentification/static/js/2.cc866157.chunk.js",
-    "static/js/2.cc866157.chunk.js.map": "/Google-Authentification/static/js/2.cc866157.chunk.js.map",
-    "index.html": "/Google-Authentification/index.html",
-    "precache-manifest.35d190b095c7a34857b6b276833f9422.js": "/Google-Authentification/precache-manifest.35d190b095c7a34857b6b276833f9422.js",
-    "service-worker.js": "/Google-Authentification/service-worker.js",
-    "static/css/main.81d077c9.chunk.css.map": "/Google-Authentification/static/css/main.81d077c9.chunk.css.map",
-    "static/js/2.cc866157.chunk.js.LICENSE.txt": "/Google-Authentification/static/js/2.cc866157.chunk.js.LICENSE.txt"
+    "main.css": "/Google-OAuth/static/css/main.81d077c9.chunk.css",
+    "main.js": "/Google-OAuth/static/js/main.8f7fe07b.chunk.js",
+    "main.js.map": "/Google-OAuth/static/js/main.8f7fe07b.chunk.js.map",
+    "runtime-main.js": "/Google-OAuth/static/js/runtime-main.2def95c7.js",
+    "runtime-main.js.map": "/Google-OAuth/static/js/runtime-main.2def95c7.js.map",
+    "static/js/2.cc866157.chunk.js": "/Google-OAuth/static/js/2.cc866157.chunk.js",
+    "static/js/2.cc866157.chunk.js.map": "/Google-OAuth/static/js/2.cc866157.chunk.js.map",
+    "index.html": "/Google-OAuth/index.html",
+    "precache-manifest.019a03d1aa832ff795cb552cd871fc94.js": "/Google-OAuth/precache-manifest.019a03d1aa832ff795cb552cd871fc94.js",
+    "service-worker.js": "/Google-OAuth/service-worker.js",
+    "static/css/main.81d077c9.chunk.css.map": "/Google-OAuth/static/css/main.81d077c9.chunk.css.map",
+    "static/js/2.cc866157.chunk.js.LICENSE.txt": "/Google-OAuth/static/js/2.cc866157.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.95802a91.js",
+    "static/js/runtime-main.2def95c7.js",
     "static/js/2.cc866157.chunk.js",
     "static/css/main.81d077c9.chunk.css",
     "static/js/main.8f7fe07b.chunk.js"
