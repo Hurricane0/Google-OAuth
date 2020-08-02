@@ -1,5 +1,5 @@
 # Google-Authentification
-Example of Google OAuth on React
+Example of Google OAuth on ReactJS
 
 ## Usage
 You can use this template in any application to integrate authentification with Google
